@@ -4,10 +4,6 @@ This is a project a worked on when I was first experiementing with data science 
 
 Here are some interesting results I found:
 
--Woman on average made 7,000 USD less than men.
--The people who reported being extremely dissatisfied and extremely satisfied with their job possessed the higher salaries.
--Of the engineering job positions dev ops specialists made the most and data scientists and machine leanring specialist (one category) made the second most.
-- There was a modest correalation between job satisfaction and education with PhD's reporting the hgihest level of satifaction.
-- Developers who utilized Assembly and PHP were paid the least.
+Woman on average made 7,000 USD less than men.The people who reported being extremely dissatisfied and extremely satisfied with their job possessed the higher salaries.Of the engineering job positions dev ops specialists made the most and data scientists and machine leanring specialist (one category) made the second most.There was a modest correalation between job satisfaction and education with PhD's reporting the hgihest level of satifaction.Developers who utilized Assembly and PHP were paid the least.
 
 
